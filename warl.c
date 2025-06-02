@@ -4,10 +4,6 @@
 int R[N][N];
 int n,i, j, k;
 
-
-
-
-
 void printMatrix() 
 {
     for (int i = 0; i < n; i++) 
@@ -19,7 +15,6 @@ void printMatrix()
         printf("\n");
     }
 }
-
 
 void warshall() 
 {

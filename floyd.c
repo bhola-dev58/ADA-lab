@@ -2,7 +2,8 @@
 #define N 10       
 
 int D[N][N];       
-int n,i,j,k;;             
+int n,i,j,k;
+int matrix[N][N];             
 
 int min(int a, int b) 
 {
